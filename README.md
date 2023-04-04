@@ -18,3 +18,8 @@ Software links and contact information [ANSYS HFSS](https://www.ansys.com/produc
 
 `Google` https://cloud.google.com/solutions/hpc?hl=en
 
+`aliyun 弹性高性能计算（E-HPC）` https://www.aliyun.com/product/ehpc?spm=5176.23713208.sslink.1.9af56499HhR1Jx
+
+`aliyun 超级计算集群（Super Computing Cluster，SCC）` https://www.aliyun.com/product/scc?spm=5176.23713208.sslink.10.9af56499HhR1Jx
+
+`tencent` https://cloud.tencent.com/solution/hpc
