@@ -28,8 +28,14 @@ Software links and contact information [ANSYS HFSS](https://www.ansys.com/produc
 `aliyun 弹性高性能计算（E-HPC）` https://www.aliyun.com/product/ehpc?spm=5176.23713208.sslink.1.9af56499HhR1Jx
 
 one hour
+128core 1TB
 <p align="center">
   <img width="100%" src="./aliyun_chengdu 2023-04-04 205239.png" title="aliyun" herf="https://www.aliyun.com/price/product?spm=a2c4g.57844.0.0.380530daRvCll8#/commodity/ecs"
+  />
+</p>
+256core 2TB
+<p align="center">
+  <img width="100%" src="./aliyun_beijing 2023-04-04 205903.png" title="aliyun" herf="https://www.aliyun.com/price/product?spm=a2c4g.57844.0.0.380530daRvCll8#/commodity/ecs"
   />
 </p>
 
