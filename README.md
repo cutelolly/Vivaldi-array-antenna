@@ -9,6 +9,7 @@ Software links and contact information [ANSYS HFSS](https://www.ansys.com/produc
 `supermicro` https://www.supermicro.com/en/products/system/GPU/Tower/SYS-741GE-TNRT
 
 `lenovo` https://www.lenovo.com/us/en/p/workstations/thinkstation-p-towers/thinkstation-p920/30bccto1wwus1
+`lenovo hpc` https://hpc.lenovo.com/users/
 
 `huawei` https://e.huawei.com/cn/solutions/computing/general-computing/high-performance-computing
 
