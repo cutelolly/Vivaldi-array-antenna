@@ -11,6 +11,8 @@ Software links and contact information [ANSYS HFSS](https://www.ansys.com/produc
 `lenovo` https://www.lenovo.com/us/en/p/workstations/thinkstation-p-towers/thinkstation-p920/30bccto1wwus1
 `lenovo hpc` https://hpc.lenovo.com/users/
 
+`ansys hpc` https://www.ansys.com/it-solutions/hpc
+
 `huawei` https://e.huawei.com/cn/solutions/computing/general-computing/high-performance-computing
 
 `北鲲` https://www.cloudam.cn/
