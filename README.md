@@ -6,15 +6,15 @@ If anyone needs a dual server motherboard, or an emulated server, please visit t
 
 Software links and contact information [ANSYS HFSS](https://www.ansys.com/products/electronics/ansys-hfss)
 
-https://www.supermicro.com/en/products/system/GPU/Tower/SYS-741GE-TNRT
+`supermicro` https://www.supermicro.com/en/products/system/GPU/Tower/SYS-741GE-TNRT
 
-https://www.lenovo.com/us/en/p/workstations/thinkstation-p-towers/thinkstation-p920/30bccto1wwus1
+`lenovo` https://www.lenovo.com/us/en/p/workstations/thinkstation-p-towers/thinkstation-p920/30bccto1wwus1
 
-https://e.huawei.com/cn/solutions/computing/general-computing/high-performance-computing
+`huawei` https://e.huawei.com/cn/solutions/computing/general-computing/high-performance-computing
 
-https://www.cloudam.cn/
+`北鲲` https://www.cloudam.cn/
 
-https://azure.microsoft.com/en-us/solutions/high-performance-computing/#intro
+`Azure` https://azure.microsoft.com/en-us/solutions/high-performance-computing/#intro
 
 `Google` https://cloud.google.com/solutions/hpc?hl=en
 
