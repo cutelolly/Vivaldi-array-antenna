@@ -27,6 +27,11 @@ Software links and contact information [ANSYS HFSS](https://www.ansys.com/produc
 
 `aliyun 弹性高性能计算（E-HPC）` https://www.aliyun.com/product/ehpc?spm=5176.23713208.sslink.1.9af56499HhR1Jx
 
+<p align="center">
+  <img width="100%" src="./aliyun_hpc 2023-04-04 203753.png" title="aliyun" herf="https://www.alibabacloud.com/pricing-calculator?spm=a3c0i.13915364.3726411330.3.1d1fa567k6R9De#/commodity/vm_intl"
+  />
+</p>
+
 `aliyun 超级计算集群（Super Computing Cluster，SCC）` https://www.aliyun.com/product/scc?spm=5176.23713208.sslink.10.9af56499HhR1Jx
 
 `tencent` https://cloud.tencent.com/solution/hpc
