@@ -13,3 +13,8 @@ https://www.lenovo.com/us/en/p/workstations/thinkstation-p-towers/thinkstation-p
 https://e.huawei.com/cn/solutions/computing/general-computing/high-performance-computing
 
 https://www.cloudam.cn/
+
+https://azure.microsoft.com/en-us/solutions/high-performance-computing/#intro
+
+`Google` https://cloud.google.com/solutions/hpc?hl=en
+
