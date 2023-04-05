@@ -6,6 +6,8 @@ If anyone needs a dual server motherboard, or an emulated server, please visit t
 
 Software links and contact information [ANSYS HFSS](https://www.ansys.com/products/electronics/ansys-hfss)
 
+`东数西算` https://item.taobao.com/item.htm?spm=a21dvs.23580594.0.0.52de3d0dKCya4t&ft=t&id=682009963759
+
 `supermicro` https://www.supermicro.com/en/products/system/GPU/Tower/SYS-741GE-TNRT
 
 `lenovo` https://www.lenovo.com/us/en/p/workstations/thinkstation-p-towers/thinkstation-p920/30bccto1wwus1
